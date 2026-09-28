@@ -1,4 +1,4 @@
-![5csVC1734342651](https://github.com/user-attachments/assets/4c440fb6-67cc-42c3-aaa7-5f496c7aa9f3)
+<img width="1372" height="784" alt="space-u" src="https://github.com/user-attachments/assets/0da93fc1-d847-4467-952f-dc206bcef5db" />
 
 # Space-U CardComm General Info
 Space survival adventure for the M5Stack Cardputer device (ESP32-S3 based). This application has been my first project for this device. It has forced me to work in a programming language that I am not familiar with and to understand the rendering process on this type of screens. If you are enjoying it, consider buying me a coffee so I can continue working on these types of projects: https://buymeacoffee.com/jsaludes
